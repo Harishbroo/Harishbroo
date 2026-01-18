@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi 👋, I'm Harish Parajuli  <br><br>🎓 BSc CSIT student from Nepal 🇳🇵  <br>💻 Aspiring Machine Learning & Data Science enthusiast  <br><br>I’m a curious learner who enjoys understanding concepts step by step and applying them through small projects.  <br>Currently focused on building strong foundations in Python, Machine Learning, and Statistics.<br><br>---<br><br>## 🔭 I’m currently working on<br>- Strengthening Python fundamentals  <br>- Practicing Data Analysis using Pandas & NumPy  <br>- Building beginner Machine Learning models (Regression, Classification)  <br>- Improving problem-solving and coding consistency  <br><br>---<br><br>## 🌱 I’m currently learning<br>- Python for Data Science  <br>- Machine Learning algorithms  <br>- Statistics & Mathematics for ML  <br>- Git & GitHub best practices  <br><br>---<br><br>## 👯 I’m looking to collaborate on<br>- Beginner-friendly Python projects  <br>- Data Science & Machine Learning mini projects  <br>- Student-level open-source contributions  <br><br>---<br><br>## 🤝 I’m looking for help with<br>- Machine Learning project ideas  <br>- Understanding real-world ML workflows  <br>- Improving model accuracy and evaluation  <br><br>---<br><br>## 💬 Ask me about<br>- Python basics  <br>- Machine Learning learning path  <br>- How beginners can start ML step by step  <br><br>---<br><br>## ⚡ Fun fact<br>I started Machine Learning thinking it was scary… now I enjoy learning it one concept at a time 😄  <br><br>---<br><br>## 🛠️ Languages & Tools<br>- Python  <br>- NumPy  <br>- Pandas  <br>- Matplotlib  <br>- Scikit-learn  <br>- Git & GitHub  <br>- VS Code  <br><br>---<br><br>📌 *Always learning, always improving — one commit at a time.*<br>
 
-<!--
-**Harishbroo/Harishbroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harish Parajuli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsonlyharish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-parajuli-5aba0a33a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishprj2@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harishbroo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harishbroo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishbroo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Harishbroo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harishbroo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Harishbroo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
